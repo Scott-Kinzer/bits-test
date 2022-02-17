@@ -1,0 +1,23 @@
+.bookWrapper {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.bookForm {
+    width: 40%;
+    height: 300px;
+    background: indianred;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.bookForm input, button {
+    width: 50%
+}

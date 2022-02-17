@@ -1,0 +1,25 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "book_title": "json-server",
+      "author_name": "typicode",
+      "category": "action",
+      "isbn": "3211"
+    },
+    {
+      "id": 99,
+      "book_title": "nonelkdcsm",
+      "author_name": "lkd",
+      "category": "Adventure",
+      "isbn": "5"
+    },
+    {
+      "id": 368,
+      "book_title": "SOme data",
+      "author_name": "Auth",
+      "category": "Adventure",
+      "isbn": "2352"
+    }
+  ]
+}
